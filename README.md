@@ -16,3 +16,5 @@ An editor window listing all Odin attribute parameters using value/action resolv
     - Description
 - Example Code
 - Example Preview
+
+It can be opened by navigating to: `Tools > Odin Inspector > Resolved Parameters Overview`
