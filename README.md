@@ -17,4 +17,6 @@ An editor window listing all Odin attribute parameters using value/action resolv
 - Example Code
 - Example Preview
 
-It can be opened by navigating to: `Tools > Odin Inspector > Resolved Parameters Overview`
+> Requires at least Unity 2019.4.0
+
+> It can be opened by navigating to: `Tools > Odin Inspector > Resolved Parameters Overview`
