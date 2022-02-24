@@ -22,3 +22,4 @@ Simply put the downloaded ResolvedParametersOverviewWindow folder in your projec
 open the window by navigating to `Tools > Odin Inspector > Resolved Parameters Overview`.
 
 > Requires at least Unity 2019.4.0
+> Requires at least Odin 3.0.12.0
