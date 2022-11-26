@@ -60,7 +60,7 @@ namespace Schwapo.OdinInspector.Editor.ResolvedParametersOverviewWindow
         {
             var tree = new OdinMenuTree();
             tree.Config = Config;
-            tree.Config.SearchTerm = null;
+            tree.Config.SearchTerm = "";
             tree.Config.DrawSearchToolbar = true;
             tree.Config.SearchFunction = (menuItem) =>
             {
